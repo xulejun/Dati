@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_four.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\start_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_three.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\start_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_two.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\start_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\androidtest.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\androidtest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_one.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\start_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\javatest.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\layout\\javatest.xml"
+    }
+]

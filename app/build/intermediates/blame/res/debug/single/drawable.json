@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_menu_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\down_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_bg_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\result_bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_toptitle_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\radio_toptitle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\radio_bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\login_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\java_drawable_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\java_drawable_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bg_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\menu_bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_down_default_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\main_down_default_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\start_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_button_pressed_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\menu_button_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_down_pressed_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\main_down_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_title_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\radio_title_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\menu_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_button_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\menu_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_drawable_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\android_drawable_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_back_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\help_back_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\radio_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg2_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\AndroidTest\\Test2\\app\\src\\main\\res\\drawable\\radio_bg2_shape.xml"
+    }
+]

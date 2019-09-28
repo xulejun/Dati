@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_da7f6d4a2578328f7d18a9b32b1daa8a6a532adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.2"
+        sha1="005036df13f58f6d7c31709ede6ae9253421505a">
+        <dex dex="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_838e957401b30efd3304aae3c758f67dd94d069c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sdk\3.4.6\41f54bb2846705eea0de5df48ddbcba378bd54e5\bmob-sdk-3.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.2"
+        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
+        <dex dex="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\bmob-sdk-3.4.6_7d7e4f9bf21d91854ea3a5666e6b0fc585868498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.2"
+        sha1="f92e7c9579f9f56ef316d5f6fb163367a360131e">
+        <dex dex="C:\Users\Administrator\Desktop\AndroidTest\Test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_79ce4f332322d5eecd9dda218861d0a07918b435\classes.dex" />
+    </item>
+
+</items>
